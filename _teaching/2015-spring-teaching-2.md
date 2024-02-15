@@ -1,5 +1,5 @@
 ---
-title: "Probability and Statistics"
+title: "Probability and Statistics (MATH104)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
