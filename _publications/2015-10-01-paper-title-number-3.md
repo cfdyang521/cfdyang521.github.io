@@ -40,4 +40,6 @@ in contact with solid, Journal of Computational Physics, Vol. 491, 112345, 2023.
 
 11. Jianqing Li, Junxiang Yang*, Local volume-conservation-improved diffuse interface model for simulation of Rayleigh-Plateau fluid instability, Computer Physics Communications, Vol. 296, 109050, 2024. IF: 4.717 Q1
 
-12. Junxiang Yang, Junseok Kim*, Consistently and unconditionally energy-stable linear method for the diffuse-interface model of narrow volume reconstruction, Engineering with Computers, accepted, in press IF: 8.7 Q1
+12. Junxiang Yang, Junseok Kim*, Consistently and unconditionally energy-stable linear method for the diffuse-interface model of narrow volume reconstruction, Engineering with Computers, DOI: 10.1007/s00366-023-01935-3 IF: 8.7 Q1
+
+13. Junxiang Yang, Yibao Li, Junseok Kim*, Phase-field modeling and linearly energy-stable Runge–Kutta algorithm of colloidal crystals on curved surfaces, Journal of Computational and Applied Mathematics, Vol. 443, 115750, 2024. IF: 2.4 Q1
