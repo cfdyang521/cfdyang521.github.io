@@ -11,49 +11,72 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Applied Mathematics, Seoul, Korea University (高麗大學/韓國), 2021, Advisor: Prof. Junseok Kim
+  (Prof. Junseok Kim's Website is https://mathematicians.korea.ac.kr/cfdkim).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.09-present: Assistant Professor
+  * Macau University of Science and Technology (澳門科技大學)
+  * Faculty of Innovation Engineering
+  * School of Computer Science and Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.12-2023.06: Postdoctoral Researcher
+  * Sun Yat-sen University (中山大學)
   
-Skills
+Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Natural Science Foundation of China No. 12201657 / 國家自然科學基金青年科學基金項目 (2023.01-2025.12);
+* China Postdoctoral Science Foundation No. 2022M713639 / 中國博士後科學基金面上項目 (2022.09-2023.06);
+* 2022 International Postdoctoral Exchange Fellowship Program (Talent-Introduction
+  Program) No. YJ20220221 / 2022年度博士後國際交流計劃引進項目 (2022.09-2023.06).
 
-Publications
+Selected Publications (10 representative works)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Junxiang Yang, Junseok Kim*, A phase-field model and its efficient numerical method for two-phase flows on
+arbitrarily curved surfaces in 3D space, Computer Methods in Applied Mechanics and Engineering, Vol. 372,
+113382, 2020. IF: 6.588  Q1 (中科院一區top)
+* Junxiang Yang, Yibao Li, Junseok Kim*, Totally decoupled implicit-explicit linear scheme with corrected energy
+dissipation law for the phase-field fluid vesicle model, Computer Methods in Applied Mechanics and
+Engineering, Vol. 399, 115330, 2022. IF: 6.588  Q1 (中科院一區top)
+* Junxiang Yang*, Phase field modeling and computation of multi-component droplet evaporation, Computer
+Methods in Applied Mechanics and Engineering, Vol. 401, 115675, 2022. IF: 6.588  Q1 (中科院一區top)
+* Junxiang Yang, Jingwen Wu, Zhijun Tan*, Phase-field modeling and consistent energy-stable simulation of
+binary creeping flows in contact with solid, Computer Methods in Applied Mechanics and Engineering, Vol.
+414, 116180, 2023. IF: 6.588  Q1 (中科院一區top)
+* Junxiang Yang, Junseok Kim*, Phase-field simulation of multiple fluid vesicles with a consistently energy-
+stable implicit-explicit method, Computer Methods in Applied Mechanics and Engineering, Vol. 417, 116403, 2023. IF: 6.588
+Q1 (中科院一區top)
+* Junxiang Yang, Yibao Li, Junseok Kim*, A practical finite difference scheme for the Navier-Stokes equation on
+curved surfaces in R3, Journal of Computational Physics, Vol. 411, 109403, 2020. IF: 4.645  Q1 (中科院一區)
+* Junxiang Yang, Zhijun Tan, Junseok Kim*, Linear and fully decoupled scheme for a hydrodynamics coupled
+phase-field surfactant system based on a multiple auxiliary variables approach, Journal of Computational
+Physics, Vol. 452, 110909, 2022. IF: 4.645  Q1 (中科院一區)
+* Junxiang Yang, Junseok Kim*, Numerical approximation of the square phase-field crystal dynamics on the
+three-dimensional objects, Journal of Computational Physics, Vol. 471, 111652, 2022. IF: 4.645 Q1 (中科院一區)
+* Junxiang Yang, Zhijun Tan, Jian Wang, Junseok Kim*, Modified diffuse interface fluid model and its consistent
+energy-stable computation in arbitrary domains, Journal of Computational Physics, Vol. 488，112216， 2023.
+IF: 4.645 Q1 (中科院一區)
+* Junxiang Yang, Yibao Li, Junseok Kim*, Modified multi-phase diffuse-interface model for compound droplets
+in contact with solid, Journal of Computational Physics, Vol. 491, 112345, 2023. IF: 4.645 Q1 (中科院一區)
+
   
-Talks
+Teaching at MUST
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Physics
+* Professional Ethics and Communication Skills
+* Professional Introduction for Computer Science
+* Probability and Statistics
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Peer Reviewer of SCI journals: Journal of Computational Physics, Communications in Nonlinear Science and Numerical Simulation,
+Computers and Mathematics with Applications, Applied Numerical Mathematics, Engineering Analysis with Boundary Elements
+
+Research Interests
 ======
-* Currently signed in to 43 different slack teams
+* Computational fluid algorithms
+* Phase-field models and applications
+* Simulations of multi-phase fluid flows
+* Numerical methods for partial differential equations
+* Computational methods in science and engineering
