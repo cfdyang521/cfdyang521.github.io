@@ -10,3 +10,5 @@ citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal
 ---
 1. Junxiang Yang*, Linear energy-stable method with correction technique for the Ohta–Kawasaki–Navier–Stokes model of incompressible diblock
 copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vol. 131, 107835, 2024. IF: 3.9 Q1
+
+2. Yi Zhao, Dongting Cai, Junxiang Yang*, Second-order accurate and unconditionally stable algorithm with unique solvability for a phase-field model of 3D volume reconstruction, Journal of Computational Physics, in press, 2024. IF: 4.1 Q1
