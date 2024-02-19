@@ -8,6 +8,7 @@ venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+( *: corresponding author)
 
 1. Junxiang Yang, Chaeyoung Lee, Soobin Kwak, Yongho Choi, Junseok Kim*, A conservative and stable explicit finite difference scheme for the diffusion equation, Journal of Computational Science, Vol. 56, 101491, 2021. IF: 3.817 Q2
 
