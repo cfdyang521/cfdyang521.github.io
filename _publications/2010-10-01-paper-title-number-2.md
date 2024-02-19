@@ -8,6 +8,7 @@ venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+( *: corresponding author)
 
 1. Junxiang Yang, Junseok Kim*, Consistent energy-stable method for the hydrodynamics coupled PFC model, International Journal of Mechanical Sciences, Vol. 241, 107952, 2023. IF: 6.772 Q1
 
