@@ -8,6 +8,7 @@ venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+( *: corresponding author)
 
 1. Junxiang Yang, Junseok Kim*, Phase-field simulation of Rayleigh instability on a fibre, International Journal of Multiphase Flow, Vol. 105, pp. 84-90, 2018. IF: 4.044 Q2
 
