@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (only first or corresponding author)"
+title: "Publications  (only first or corresponding author)"
 permalink: /publications/
 author_profile: true
 ---
