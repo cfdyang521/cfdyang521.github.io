@@ -20,7 +20,7 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 
 5. Junxiang Yang, Junseok Kim*, Energy dissipation–preserving time-dependent auxiliary variable method for the phase-field crystal and the Swift-Hohenberg models, Numerical Algorithms, Vol. 89,1865-1894, 2022. IF: 2.370 Q1
 
-6. Junxiang Yang, Junseok Kim*, The linear and energy stable schemes for the Swift-Hohenberg equation with quadratic-cubic nonlinearity based on a modified scalar auxiliary variable (SAV) approach, Journalof Engineering Mathematics, Vol. 128, 21, 2021. IF: 1.444 Q4
+6. Junxiang Yang, Junseok Kim*, The linear and energy stable schemes for the Swift-Hohenberg equation with quadratic-cubic nonlinearity based on a modified scalar auxiliary variable (SAV) approach, Journalof Engineering Mathematics, Vol. 128, 21, 2021. IF: 1.3 Q4
 
 7. Junxiang Yang, Junseok Kim*, Linear, second-order accurate, and energy stable scheme for a ternary Cahn-Hilliard model by using Lagrange multiplier approach, Acta Applicandae Mathematicae, Vol. 172, 10, 2021. IF: 1.563 Q2
 
@@ -37,3 +37,7 @@ Vol. 102, 105923, 2021. IF: 4.186 Q1
 12. Junxiang Yang, Zhijun Tan, Junseok Kim*, High-order time-accurate, efficient, and structure-preserving
 numerical methods for the conservative Swift-Hohenberg model, Computers & Mathematics with
 Applications, Vol. 102, 160-174, 2021. IF: 3.218 Q1
+
+13. Junxiang Yang, Junseok Kim*, Efficient and structure-preserving time-dependent auxiliary variable method for a conservative Allen–Cahn type surfactant system, Engineering with Computers, Vol. 38, 5231-5250, 2022. IF: 8.7 Q1
+
+14. Junxiang Yang, Junseok Kim*,  The stabilized-trigonometric scalar auxiliary variable approach for gradient flows and its efficient schemes, Journal of Engineering Mathematics, Vol. 129, 18, 2021. IF: 1.3 Q4
