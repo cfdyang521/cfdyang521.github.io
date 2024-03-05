@@ -14,7 +14,7 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 
 2. Junxiang Yang, Yibao Li, Darae Jeong, Junseok Kim*, Mathematical modeling and simulation of antibubble dynamics, Numerical Mathematics- Theory, Methods and Applications, Vol. 13, 81-98, 2020. IF: 1.659 Q2
 
-3. Junxiang Yang, Yibao Li, Chaeyoung Lee, Darae Jeong, Junseok Kim*, A conservative difference scheme for the N-component Cahn-Hilliard system on curved surfaces in 3D, Journal of Engineering Mathematics, Vol. 119, 149-166, 2019. IF: 1.444 Q4
+3. Junxiang Yang, Yibao Li, Chaeyoung Lee, Darae Jeong, Junseok Kim*, A conservative difference scheme for the N-component Cahn-Hilliard system on curved surfaces in 3D, Journal of Engineering Mathematics, Vol. 119, 149-166, 2019. IF: 1.3 Q4
 
 4. Junxiang Yang, Junseok Kim*, A phase-field method for two-phase fluid flow in arbitrary domains, Computers & Mathematics with Applications, Vol. 79, 1857-1874, 2020. IF:3.218 Q1
 
