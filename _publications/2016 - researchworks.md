@@ -17,3 +17,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 3. Junxiang Yang, Seungyoon Kang, Soobin Kwak, Junseok Kim*,  The Allen–Cahn equation with a space-dependent mobility and a source term
  for general motion by mean curvature, Journal of Computational Science, Vol. 77, 102252, 2024. IF: 3.3 Q2
+
+4. Junxiang Yang, Yibao Li, Junseok Kim*, A structure-preserving projection method with formal second-order accuracy for the incompressible Navier-Stokes equations, Communications in Nonlinear Science and Numerical Simulation, in press, 2024. IF: 3.9 Q1
