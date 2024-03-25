@@ -12,7 +12,6 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 
 I only recruit 1-3 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
 
-Recently, I DO NOT recruit research assistants and I am NOT interested in any academic cooperations.
 
 已主持科研項目如下：
 
@@ -66,7 +65,6 @@ Master degree in Applied Mathematics openings on computational physics (fluids, 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
 
-欢迎具有數學、工程力學、物理等相關本科背景的同學報考碩士課程！個人精力有限，每年只能招收碩士1-3名，暫無法招收博士，若有意向，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
+欢迎具有數學、工程力學、物理等相關本科背景的同學報考碩士課程！個人精力有限，每年只招收碩士1-3名，暫無法招收博士，若有意向，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
 
-此外，課題組不招收研究助理，並且本人最近對任何形式的學術合作都不感興趣，謝謝！
 
