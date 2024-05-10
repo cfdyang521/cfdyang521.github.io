@@ -66,7 +66,9 @@ Master degree in Applied Mathematics openings on computational physics (fluids, 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
 
 欢迎具有數學、工程力學、物理等相關本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。
+
 為了提高學生做研究的效率和科研成果的產量，本課題組要求碩士生周一至週五（週末，節假日除外）每天三小時以上和我一起在教室/研討室開展學術研究，若無法接受上述安排，請勿聯繫！
+
 若對我的方向感興趣並且能接受以上研究時間安排，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
 
 
