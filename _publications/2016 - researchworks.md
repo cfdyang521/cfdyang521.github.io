@@ -21,3 +21,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 4. Junxiang Yang, Yibao Li, Junseok Kim*, A structure-preserving projection method with formal second-order accuracy for the incompressible Navier-Stokes equations, Communications in Nonlinear Science and Numerical Simulation, Vol. 133, 107963, 2024. IF: 3.9 Q1
 
 5. Junxiang Yang, Dongsun Lee, Soobin Kwak, Seokjun Ham, Junseok Kim*, The Allen–Cahn model with a time-dependent parameter for motion by mean curvature up to the singularity, Chaos, Solitons and Fractals, Vol. 182, 114803, 2024. IF: 7.8 Q1
+
+6. Junxiang Yang, Seungyoon Kang, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim*, Lattice Boltzmann method for variable viscous fluid flow on spherical surface, Engineering Analysis with Boundary Elements, in press, 2024. IF: 3.3 Q1
