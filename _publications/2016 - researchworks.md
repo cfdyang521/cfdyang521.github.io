@@ -26,3 +26,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 7. Junxiang Yang, Mengyu Luo, Wenjing, Jiang, Jian Wang*, Efficiently linear and unconditionally energy-stable time-marching schemes with energy relaxation for the phase-ﬁeld surfactant model, Journal of Computational and Applied Mathematics, Vol. 451, 116039, 2024. IF: 2.4 Q1
 
+8. Junxiang Yang, Jian Wang, Soobin Kwak, Seokjun Ham, Junseok Kim*, A modified Allen-Cahn equation with a mesh size-dependent interfacial parameter on a triangular mesh, Computer Physics Communications, Vol. 304, 109301, 2024. IF: 4.717 Q1
+
