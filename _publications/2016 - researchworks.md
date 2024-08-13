@@ -28,3 +28,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 8. Junxiang Yang, Jian Wang, Soobin Kwak, Seokjun Ham, Junseok Kim*, A modified Allen-Cahn equation with a mesh size-dependent interfacial parameter on a triangular mesh, Computer Physics Communications, Vol. 304, 109301, 2024. IF: 4.717 Q1
 
+9. Keyue Sun, Baiyang Wei, Hanwen Zhang, Junxiang Yang*, Energy-stable auxiliary variable viscosity splitting (AVVS) method for the incompressible Navier-Stokes equations and turbidity current system, Computer Methods in Applied Mechanics and Engineering, in press, 2024. IF: 6.9 Q1
+
