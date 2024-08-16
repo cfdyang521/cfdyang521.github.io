@@ -65,15 +65,21 @@ Master degree in Applied Mathematics openings on computational physics (fluids, 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
 
-欢迎具有數學、工程力學、物理等相關本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。
+欢迎具有數學、工程力學或力学相关本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。
 
 為了提高學生做研究的效率和科研成果的產量，本課題組要求組內學生周一至週五（週末，節假日，上課時間除外）每天和我一起在研討室開展學術研究，具体时间如下:
+
 上午 10:00 - 12:00
+
 下午 14:00 - 17:00
+
 晚上 19:00 - 21:00
+
 若無法接受上述安排，請勿聯繫！
 
-本課題組只安排學生做研究寫論文。本人沒有任何橫向項目，不喜歡過多參加學術交流活動，目前連縱向項目也沒申請到。因此，本人在學術界和產業界均無資源提供，也無法提供在讀期間的資金支持，望周知。
+本課題組只安排學生做研究寫論文。本人暂时沒有任何橫向項目。
+
+本课题组不接受一年制硕士，2024年秋季学期起校内硕士若在第二年想要进组做研究，必须接受延毕一年。
 
 若對我的方向感興趣並且能接受以上研究安排，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
 
