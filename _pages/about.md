@@ -77,7 +77,7 @@ For the students who want to study numerical simulations with me, the prerequisi
 
 下午 13:30 - 17:00
 
-晚上 16:30 - 20:00
+晚上 18:00 - 20:00
 
 若無法接受上述安排，請勿聯繫！
 
