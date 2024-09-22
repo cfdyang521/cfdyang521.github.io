@@ -32,5 +32,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 10. Junxiang Yang, Junseok Kim*,  Unconditionally maximum principle-preserving linear method for a mass-conserved Allen–Cahn model with local Lagrange multiplier, Communications in Nonlinear Science and Numerical Simulation, Vol. 139, 108327, 2024. IF: 3.4 Q1
 
-11. Junxiang Yang, Huan Han*, Shuhong Liu, Zhigang Zuo, Efficiently and consistently energy-stable L2-phase-field method for the incompressible ternary fluid problems, Physica D: Nonlinear Phenomena, in press, 2024. IF: 2.7 Q1
+11. Junxiang Yang, Huan Han*, Shuhong Liu, Zhigang Zuo, Efficiently and consistently energy-stable L2-phase-field method for the incompressible ternary fluid problems, Physica D: Nonlinear Phenomena, Vol. 470, 134346, 2024. IF: 2.7 Q1
 
