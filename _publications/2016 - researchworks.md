@@ -34,3 +34,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 11. Junxiang Yang, Huan Han*, Shuhong Liu, Zhigang Zuo, Efficiently and consistently energy-stable L2-phase-field method for the incompressible ternary fluid problems, Physica D: Nonlinear Phenomena, Vol. 470, 134346, 2024. IF: 2.7 Q1
 
+12. Sheng Su, Junxiang Yang*, Unconditionally stable algorithm with unique solvability for image inpainting using a penalized Allen-Cahn equation, Communications in Nonlinear Science and Numerical Simulation, in press, 2024. IF: 3.4 Q1
+
