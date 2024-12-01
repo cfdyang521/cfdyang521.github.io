@@ -26,6 +26,7 @@ Work experience
   
 Funding
 ======
+* The Science and Technology Development Fund of Macao SAR No. FDCT-24-080-SCSE / 澳門特別行政區科學技術發展基金-科技創新提升計劃 (2024.12-2026.12);
 * National Natural Science Foundation of China No. 12201657 / 國家自然科學基金青年科學基金項目 (2023.01-2025.12);
 * Macau University of Science and Technology Faculty Research Grant No. FRG-24-026-FIE / 澳門科技大學研究基金項目 (2024.01-2025.01);
 * China Postdoctoral Science Foundation No. 2022M713639 / 中國博士後科學基金面上項目 (2022.09-2023.06);
@@ -81,3 +82,4 @@ Research Interests
 * Simulations of multi-phase fluid flows
 * Numerical methods for partial differential equations
 * Computational methods in science and engineering
+* Image processing and 3D reconstruction
