@@ -17,7 +17,7 @@ Since 2024 fall semester, I only recruit 1-2 Master students in each year. If yo
 
 國家自然科學基金青年科學基金項目;
 
-澳門特別行政區科學技術發展基金-科研及創新資助計劃A類項目;
+澳門特別行政區科學技術發展基金-科技創新提升計劃;
 
 澳門科技大學研究基金項目;
 
