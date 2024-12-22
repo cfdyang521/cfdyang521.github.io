@@ -66,8 +66,8 @@ in contact with solid, Journal of Computational Physics, Vol. 491, 112345, 2023.
 Teaching at MUST
 ======
 * Physics
+* Numerical Computation
 * Professional Ethics and Communication Skills
-* Professional Introduction for Computer Science
 * Probability and Statistics
   
 Academic Service
