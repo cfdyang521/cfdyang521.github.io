@@ -38,3 +38,5 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 13. Keyue Sun, Xiangjie Kong, Junxiang Yang*, Semi-analytical algorithm for quasicrystal patterns, Computers and Mathematics with Applications, in press, 2024. IF: 2.6 Q1
 
+14. Fang Zhu, Keyue Sun, Guangtao Zhang, Junxiang Yang*, Diffuse-interface modeling and energy-stable numerical framework for the heat transfer-coupled two-phase fluids in contact with solids, Journal of Computational Physics, in press, 2024. IF: 4.1 Q1
+
