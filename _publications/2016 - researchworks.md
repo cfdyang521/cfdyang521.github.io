@@ -36,7 +36,7 @@ copolymer melt, Communications in Nonlinear Science and Numerical Simulation, Vo
 
 12. Sheng Su, Junxiang Yang*, Unconditionally stable algorithm with unique solvability for image inpainting using a penalized Allen-Cahn equation, Communications in Nonlinear Science and Numerical Simulation, Vol. 142, 108503, 2025. IF: 3.4 Q1
 
-13. Keyue Sun, Xiangjie Kong, Junxiang Yang*, Semi-analytical algorithm for quasicrystal patterns, Computers and Mathematics with Applications, in press, 2024. IF: 2.6 Q1
+13. Keyue Sun, Xiangjie Kong, Junxiang Yang*, Semi-analytical algorithm for quasicrystal patterns, Computers and Mathematics with Applications, Vol. 180, 130-143, 2025. IF: 2.6 Q1
 
-14. Fang Zhu, Keyue Sun, Guangtao Zhang, Junxiang Yang*, Diffuse-interface modeling and energy-stable numerical framework for the heat transfer-coupled two-phase fluids in contact with solids, Journal of Computational Physics, in press, 2024. IF: 4.1 Q1
+14. Fang Zhu, Keyue Sun, Guangtao Zhang, Junxiang Yang*, Diffuse-interface modeling and energy-stable numerical framework for the heat transfer-coupled two-phase fluids in contact with solids, Journal of Computational Physics, Vol. 524, 113699, 2025. IF: 4.1 Q1
 
