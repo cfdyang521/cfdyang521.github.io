@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (M.U.S.T. 澳門科技大學). Before he joined M.U.S.T., he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 75 SCI papers as first or corresponding author from 2018.  
+Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (M.U.S.T. 澳門科技大學). Before he joined M.U.S.T., he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 76 SCI papers as first or corresponding author from 2018.  
 
 Since 2024 fall semester, I only recruit 1-2 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
 
