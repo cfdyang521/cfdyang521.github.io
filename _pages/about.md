@@ -71,7 +71,7 @@ For the students who want to study numerical simulations with me, the prerequisi
 
 課題組要求:
 
-1. 本課題組碩士畢業答辯前，必須以第一作者身份發表至少一篇Q1等级的SCI文章;
+1. 本課題組碩士畢業答辯前，必須以第一作者身份發表至少一篇JCR Q1等级的SCI文章;
    
 3. 不允许学生发表以MDPI为代表的开源出版社旗下杂志，若发表此类刊物请自行退组;
 
