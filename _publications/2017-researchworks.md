@@ -15,4 +15,6 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 
 2. Sheng Su, Junxiang Yang*, Maximum principle-preserving, unconditionally energy-stable, and convergent method with second-order accuracy for the phase-field model of image inpainting, Computers and Mathhematics with Applications, in press, 2025. IF: 2.9 Q1
 
-3. Xiangjie Kong, Renjun Gao, Boyi Fu, Dongting Cai, Junxiang Yang*, Two lower boundedness-preservity auxiliary variable methods for a phase-field model of 3D narrow volume reconstruction, Communications in Nonlinear Science and Numerical Simulation, in press, 2025. IF: 3.4 Q1
+3. Xiangjie Kong, Renjun Gao, Boyi Fu, Dongting Cai, Junxiang Yang*, Two lower boundedness-preservity auxiliary variable methods for a phase-field model of 3D narrow volume reconstruction, Communications in Nonlinear Science and Numerical Simulation, Vol. 143, 108649, 2025. IF: 3.4 Q1
+
+4. Junxiang Yang, Seungyoon Kang, Sangkwon Kim, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim*, An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface, Communications in Nonlinear Science and Numerical Simulation, in press, 2025. IF: 3.4 Q1
