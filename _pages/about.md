@@ -21,7 +21,6 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 博士後科學基金面上項目。
 
 博士期間被中國駐韓大使館教育處評為2020年度優秀在韓國家公派留學人員; 入選2022年度博士後國際交流計劃引進項目。
-
 <br/><img src='/images/lihai.png' width='200px'>
 
 Introduction of PF_CFD Team
@@ -32,6 +31,8 @@ In my homepage, I provide several simple but practical MATLAB codes for interest
 
 Present research topics (selected)
 ======
+<br/><img src='/images/xuexi.png' width='200px'>
+
 * Computational Fluid Algorithms:
   1. Structure-preserving time-marching schemes for the incompressible Navier-Stokes equations;
   2. Finite volume method for the fluid flows on surfaces with direct discretization;
