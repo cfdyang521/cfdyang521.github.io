@@ -10,9 +10,6 @@ redirect_from:
 
 Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (M.U.S.T. 澳門科技大學). Before he joined M.U.S.T., he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 79 SCI papers as first or corresponding author from 2018.  
 
-Since 2024 fall semester, I only recruit 1-2 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
-
-
 已主持科研項目如下：
 
 國家自然科學基金青年科學基金項目;
@@ -24,6 +21,8 @@ Since 2024 fall semester, I only recruit 1-2 Master students in each year. If yo
 博士後科學基金面上項目。
 
 博士期間被中國駐韓大使館教育處評為2020年度優秀在韓國家公派留學人員; 入選2022年度博士後國際交流計劃引進項目。
+
+<br/><img src='/images/lihai.png' width='200px'>
 
 Introduction of PF_CFD Team
 ======
@@ -68,7 +67,7 @@ Master degree in Applied Mathematics openings on computational physics (fluids, 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
 
-欢迎具有數學、工程力學等相关本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。
+欢迎具有數學、工程力學等相关本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。 Since 2024 fall semester, I only recruit 1-2 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
 
 <br/><img src='/images/nu.png' width='200px'>
 
