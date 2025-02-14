@@ -63,6 +63,8 @@ Present research topics (selected)
 
 Open positions / 招生信息
 ======
+excerpt: #"<br/><img src='/images/jxyang.png' width='100px'>"
+
 Master degree in Applied Mathematics openings on computational physics (fluids, biology, and materials) and numerical methods for partial differential equations (PDEs). Undergraduate students should contact Prof. Yang and apply to School of Computer Science and Engineering at Macau University of Science and Technology. 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
@@ -73,9 +75,9 @@ For the students who want to study numerical simulations with me, the prerequisi
 
 1. 本課題組碩士畢業答辯前，必須以第一作者身份發表至少一篇JCR Q1等级的SCI文章;
    
-3. 不允许学生发表以MDPI为代表的开源出版社旗下杂志，若发表此类刊物请自行退组;
+3. 不允许学生发表以MDPI为代表的开源出版社旗下杂志，若想发表此类刊物请自行退组;
 
-4. 本課題組不接受不勤奮的學生，若對科研主題不上心，三個月內無進展，將換掉一作給更用功的學生;  （*能接受早8-晚8的時間安排，凌晨、週末、假期還在學習做研究的就是勤奮的！）
+4. 本課題組不接受不勤奮的學生，若對科研主題不上心且三個月內無進展，將換掉一作給更用功的學生;  （*能接受早8-晚8的時間安排，凌晨、週末、假期還在學習做研究的就是勤奮的！）
 
 5. 本课题组不接受一年制硕士，2024年秋季学期起校内硕士若在第二年想要进组做研究，必须接受延毕一年，若延期一年后仍无论文产出，自行退组;
 
