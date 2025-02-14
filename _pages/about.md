@@ -70,7 +70,7 @@ For the students who want to study numerical simulations with me, the prerequisi
 
 欢迎具有數學、工程力學等相关本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。 Since 2024 fall semester, I only recruit 1-2 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
 
-<br/><img src='/images/nu.png' width='200px'>
+<br/><img src='/images/nu2.png' width='220px'>
 
 課題組要求:
 
