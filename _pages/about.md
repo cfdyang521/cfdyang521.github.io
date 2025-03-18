@@ -65,51 +65,8 @@ Present research topics (selected)
 Open positions / 招生信息
 ======
 
-Master degree in Applied Mathematics openings on computational physics (fluids, biology, and materials) and numerical methods for partial differential equations (PDEs). Undergraduate students should contact Prof. Yang and apply to School of Computer Science and Engineering at Macau University of Science and Technology. 
+We do not recruit graduate and undergraduate students.
 
-For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics. Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
-
-欢迎具有數學、工程力學等相关本科背景的同學報考碩士課程！個人精力有限，自2024年秋季學期往後，每年只招收碩士1-2名，暫無博士招生資格。 Since 2024 fall semester, I only recruit 1-2 Master students in each year. If you are willing to join my team, please contact me via jxyang@must.edu.mo
-
-<br/><img src='/images/nu2.png' width='220px'>
-
-課題組津貼:
-
-1. 本課題組內碩士生每人每月發放4000元澳門幣津貼；
-
-2. 對於組內碩士生和本科生，若以第一作者身份發表JCR Q1 (前10%) 等級的SCI文章，根據貢獻額外發放10000-20000元澳門幣的獎勵。例: 在代碼、數值測試和論文寫作中做出核心貢獻，獎勵20000元澳門幣; 在數值測試和論文寫作中做出大量工作量，獎勵10000元澳門幣；
-
-3. 對於組內碩士生和本科生，若以第一作者身份發表JCR Q1 (11%-25%) 等級的SCI文章，根據貢獻額外發放5000-10000元澳門幣的獎勵。例: 在代碼、數值測試和論文寫作中做出核心貢獻，獎勵10000元澳門幣; 在數值測試和論文寫作中做出大量工作量，獎勵5000元澳門幣。
-
-
-課題組要求:
-
-提供每周一至周五从早到晚的陪伴式指导，提供研究主题和代码，但是需接受以下要求
-
-1. 本課題組碩士畢業答辯前，必須以第一作者身份發表至少一篇JCR Q1等级的SCI文章;
-   
-3. 不允许学生发表以MDPI为代表的开源出版社旗下杂志，若想发表此类刊物请自行退组;
-
-4. 本課題組不接受不勤奮的學生，若對科研主題不上心且三個月內無進展，將換掉一作給更用功的學生;  （*能接受早8-晚8的時間安排，凌晨、週末、假期還在學習做研究的就是勤奮的！）
-
-5. 本课题组不接受一年制硕士，2024年秋季学期起校内硕士若在第二年想要进组做研究，必须接受延毕一年，若延期一年后仍无论文产出，自行退组;
-
-6. 自2024年9月15日之後入組的研究生和本科生，暑假時間也需要留校做研究，如果做不到暑假留校做研究那就自行退组;
-
-7. 為了提高學生做研究的效率和科研成果的產量，本課題組要求組內學生周一至週五（週末，上課時間除外）每天和我一起在研討室開展全天學術研究，具体时间如下:
-
-   上午 8:00 - 12:00
-
-   下午 13:30 - 17:00
-
-   晚上 18:00 - 20:00
-
-8. 做科研需要大量时间和精力的投入，研究生应以论文成果为导向，而不是上课。对于喜欢花太多精力在研究生课程/考试上的学生，本课题组不适合你们;
-
-9. 在研讨室做研究、写论文期间不允许学生干任何和研究生课程相关的事，关于研究生课程的学习请自行安排时间，如果不能接受请自行退组。
-
-若無法接受上述要求，請勿聯繫！本課題組只安排學生做研究寫論文。本人暂时沒有任何橫向項目。
-
-若對我的方向感興趣並且能接受以上研究安排，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
+本課題組不再招收研究生和本科生，請勿聯係，謝謝。
 
 
