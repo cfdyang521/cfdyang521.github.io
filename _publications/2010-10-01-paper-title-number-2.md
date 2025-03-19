@@ -42,15 +42,11 @@ crystal model with a strong nonlinear vacancy potential on 3D surfaces, Computer
 
 15. Junxiang Yang, Yibao Li, Chaeyoung Lee, Yongho Choi, Junseok Kim*, Fast evolution numerical method for the Allen Cahn equation, Journal of King Saud University-Science, Vol. 35, 102430, 2023. IF: 3.829 Q2
 
-16. Junxiang Yang, Yibao Li, Junseok Kim*, A correct benchmark problem of a two-dimensional droplet deformation in simple shear flow,  Mathematics, Vol.  10, 4092, 2022. IF: 2.592 Q1
+16. Junxiang Yang, Zhijun Tan, Sangkwon Kim, Soobin Kwak, Junseok Kim*, Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D, Engineering with Computers, Vol. 38, 5507-5518, 2022. IF: 8.083 Q1
 
-17. Qiming Huang, Junxiang Yang*,  Linear and Energy-Stable Method with Enhanced Consistency for the Incompressible Cahn–Hilliard–Navier–Stokes Two-Phase Flow Model, Mathematics, Vol. 10, 4711, 2022. IF: 2.592 Q1
+17. Junxiang Yang, Jianjun Chen, Zhijun Tan*, Highly efficient variant of SAV approach for two-phase incompressible conservative Allen-Cahn fluids, Engineering with Computers, Vol. 38, 5339-5357, 2022. IF: 8.083 Q1
 
-18. Junxiang Yang, Zhijun Tan, Sangkwon Kim, Soobin Kwak, Junseok Kim*, Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D, Engineering with Computers, Vol. 38, 5507-5518, 2022. IF: 8.083 Q1
+18. Junxiang Yang, Junseok Kim*, Numerical simulation and analysis of the Swift-Hohenberg equation by the stabilized Lagrange multiplier approach, Computational and Applied Mathematics, Vol. 41, 20, 2022. IF: 2.998 Q1
 
-19. Junxiang Yang, Jianjun Chen, Zhijun Tan*, Highly efficient variant of SAV approach for two-phase incompressible conservative Allen-Cahn fluids, Engineering with Computers, Vol. 38, 5339-5357, 2022. IF: 8.083 Q1
-
-20. Junxiang Yang, Junseok Kim*, Numerical simulation and analysis of the Swift-Hohenberg equation by the stabilized Lagrange multiplier approach, Computational and Applied Mathematics, Vol. 41, 20, 2022. IF: 2.998 Q1
-
-21. Junxiang Yang, Yibao Li, Chaeyoung Lee, Hyun Geun Lee, Soobin Kwak, Youngjin Hwang, Xuan Xin, Junseok
+19. Junxiang Yang, Yibao Li, Chaeyoung Lee, Hyun Geun Lee, Soobin Kwak, Youngjin Hwang, Xuan Xin, Junseok
 Kim*, An explicit conservative Saul'yev scheme for the Cahn-Hilliard equation, International Journal of Mechanical Sciences, Vol. 217, 106985, 2022. IF: 6.772 Q1
