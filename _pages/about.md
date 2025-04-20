@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/jibobo.png' width='500px'>
+<br/><img src='/images/jibobo.png' width='460px'>
 
 Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 78 SCI papers as first or corresponding author from 2018.  
 
@@ -65,8 +65,6 @@ Present research topics (selected)
 Open positions / 招生信息
 ======
 
-We do not recruit graduate and undergraduate students.
-
-本課題組不再招收研究生和本科生，請勿聯係，謝謝。
+由於本人能力有限，本課題組暫不招收研究生和本科生，請勿聯係，謝謝。
 
 
