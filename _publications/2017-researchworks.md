@@ -20,3 +20,7 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 4. Junxiang Yang, Seungyoon Kang, Sangkwon Kim, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim*, An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface, Communications in Nonlinear Science and Numerical Simulation, Vol. 144, 108676, 2025. IF: 3.4 Q1
 
 5. Dongting Cai, Boyi Fu, Renjun Gao, Xiangjie Kong, Junxiang Yang*, Phase-field computation for 3D shell reconstruction with an energy-stable and uniquely solvable BDF2 method, Computers and Mathhematics with Applications, Vol. 189, 1-23, 2025. IF: 2.9 Q1
+
+6. Boyi Fu, Dongting Cai, Xiangjie Kong, Renjun Gao, Junxiang Yang*, On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme, Communications in Nonlinear Science and Numerical Simulation, Vol. 151, 109104, 2025. IF: 3.4 Q1
+
+7. Junxiang Yang, Sangkwon Kim, Junseok Kim*, Unconditionally maximum principle preserving scheme for the Allen–Cahn equation with a logarithmic free energy, Computers and Mathhematics with Applications, Vol. 195, 366-375, 2025. IF: 2.9 Q1
