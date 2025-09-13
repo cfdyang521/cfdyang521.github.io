@@ -74,9 +74,9 @@ Open positions / 招生信息
 
 碩士生和博士生需接受暑假留校做科研。
 
-Master degree graduation requirements: Must publish at least 2 SCI article in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
+Master degree graduation requirements: Must publish at least 2 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
-Ph.D. degree graduation requirements: Must publish at least 5 SCI article in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
+Ph.D. degree graduation requirements: Must publish at least 5 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
-Master's and doctoral students are required to stay on campus during the summer vacation to conduct research.
+Master's and doctoral students are required to stay on campus during the summer vacation to conduct researches.
 
