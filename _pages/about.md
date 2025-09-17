@@ -66,7 +66,7 @@ Present research topics (selected)
 
 Open positions / 招生信息
 ======
-暫無明確招生想法，隨緣招生
+暫無明確招生想法，隨緣招生 
 
 碩士生畢業條件: 以第一作者身份發表至少3篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
