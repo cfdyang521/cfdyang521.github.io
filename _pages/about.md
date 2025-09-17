@@ -76,7 +76,7 @@ Open positions / 招生信息
 
 Master degree graduation requirements: Must publish at least 2 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
-Ph.D. degree graduation requirements: Must publish at least 5 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
+Ph.D. degree graduation requirements: Must publish at least 6 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
 Master's and doctoral students are required to stay on campus during the summer vacation to conduct researches.
 
