@@ -29,3 +29,6 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 
 9. Sheng Su, Renjun Gao, Junxiang Yang*, Second-order accurate, maximum principle-preserving, and convergent schemes for the phase-field shape transformation model, Engineering with Computers, in press, JCR Q1 top 20%
 
+10. Hanwen Zhang, Yanshuo Zheng, Mingxuan Li, Junxiang Yang*, Phase-field modeling and numerical computation for the hydrodynamics coupled diblock copolymer in complex geometries, Communications in Nonlinear Science and Numerical Simulation, in press. JCR Q1 top 10%
+
+
