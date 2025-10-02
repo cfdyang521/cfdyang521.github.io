@@ -80,5 +80,5 @@ Ph.D. degree graduation requirements: Must publish at least 6 SCI articles in th
 
 Master's and doctoral students are required to stay on campus during the summer vacation to conduct researches.
 
-<br/><img src='/images/kuiba01.png' width='200px'>
+<br/><img src='/images/kuiba01.png' width='600px'>
 
