@@ -37,7 +37,7 @@ Communications in Nonlinear Science and Numerical Simulation, in press, 2026. JC
 12. Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method for binary image segmentation, Mathematics and Computers in Simulation, in press, 2026. JCR Q1 top 10%
     
 
-13. Hanwen Zhang, Yanshuo Zheng, Mingxuan Li, Junxiang Yang*, Phase-field modeling and numerical computation for the hydrodynamics coupled diblock copolymer in complex geometries, Communications in Nonlinear Science and Numerical Simulation, in press. JCR Q1 top 10%
+
 
 
 
