@@ -27,8 +27,17 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 
 8. Hanwen Zhang, Junxiang Yang*, Consistently energy-stable decoupled method with second-order accuracy and lower density bounds for the incompressible fluid flows with variable density, Communications in Nonlinear Science and Numerical Simulation, Vol. 152, 109303, 2026. JCR Q1 top 10%
 
-9. Sheng Su, Renjun Gao, Junxiang Yang*, Second-order accurate, maximum principle-preserving, and convergent schemes for the phase-field shape transformation model, Engineering with Computers, in press, JCR Q1 top 20%
+9. Sheng Su, Renjun Gao, Junxiang Yang*, Second-order accurate, maximum principle-preserving, and convergent schemes for the phase-field shape transformation model, Engineering with Computers, 10.1007/s00366-025-02215-y, JCR Q1 top 20%
 
-10. Hanwen Zhang, Yanshuo Zheng, Mingxuan Li, Junxiang Yang*, Phase-field modeling and numerical computation for the hydrodynamics coupled diblock copolymer in complex geometries, Communications in Nonlinear Science and Numerical Simulation, in press. JCR Q1 top 10%
+10. Hanwen Zhang, Yanshuo Zheng, Mingxuan Li, Junxiang Yang*, Phase-field modeling and numerical computation for the hydrodynamics coupled diblock copolymer in complex domains, Communications in Nonlinear Science and Numerical Simulation, Vol. 152, 109381, 2026. JCR Q1 top 10%
+
+11. Chuan Jia, Junxiang Yang*, An effective numerical method for solving ternary Cahn-Hilliard-type Nakazawa-Ohta phase-field model on three-dimensional surfaces,
+Communications in Nonlinear Science and Numerical Simulation, in press, 2026. JCR Q1 top 10%
+
+12. Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method for binary image segmentation, Mathematics and Computers in Simulation, in press, 2026. JCR Q1 top 10%
+    
+
+13. Hanwen Zhang, Yanshuo Zheng, Mingxuan Li, Junxiang Yang*, Phase-field modeling and numerical computation for the hydrodynamics coupled diblock copolymer in complex geometries, Communications in Nonlinear Science and Numerical Simulation, in press. JCR Q1 top 10%
+
 
 
