@@ -68,15 +68,15 @@ Open positions / 招生信息
 ======
 暫無明確招生想法，隨緣招生 
 
-碩士生畢業條件: 以第一作者身份發表至少3篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
+碩士生畢業條件: 以第一作者身份發表至少2篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
-博士生畢業條件: 以第一作者身份發表至少6篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
+博士生畢業條件: 以第一作者身份發表至少5篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
 碩士生和博士生需接受暑假留校做科研。
 
-Master degree graduation requirements: Must publish at least 3 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
+Master degree graduation requirements: Must publish at least 2 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
-Ph.D. degree graduation requirements: Must publish at least 6 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
+Ph.D. degree graduation requirements: Must publish at least 5 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
 Master's and doctoral students are required to stay on campus during the summer vacation to conduct researches.
 
