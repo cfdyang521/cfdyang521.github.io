@@ -34,8 +34,9 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 11. Chuan Jia, Junxiang Yang*, An effective numerical method for solving ternary Cahn-Hilliard-type Nakazawa-Ohta phase-field model on three-dimensional surfaces,
 Communications in Nonlinear Science and Numerical Simulation, Vol. 152, 109427, 2026. JCR Q1 top 10%
 
-12. Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method for binary image segmentation, Mathematics and Computers in Simulation, in press, 2026. JCR Q1 top 10%
+12. Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method for binary image segmentation, Mathematics and Computers in Simulation, Vol. 241, 452-472, 2026. JCR Q1 top 10%
     
+
 
 
 
