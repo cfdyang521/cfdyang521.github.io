@@ -66,7 +66,6 @@ Present research topics (selected)
 
 Open positions / 招生信息
 ======
-<br/><img src='/images/pusa.jpg' width='200px'>
 
 進組需接受以下畢業及科研要求：
 
