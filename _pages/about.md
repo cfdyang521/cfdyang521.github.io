@@ -67,8 +67,6 @@ Present research topics (selected)
 Open positions / 招生信息
 ======
 
-進組需接受以下畢業及科研要求：
-
 碩士生畢業條件: 以第一作者身份發表至少2篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
 博士生畢業條件: 以第一作者身份發表至少5篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
