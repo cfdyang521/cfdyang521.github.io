@@ -67,11 +67,16 @@ Present research topics (selected)
 Open positions / 招生信息
 ======
 
+<br/><img src='/images/demoyang.png' width='200px'>
+組內畢業及科研要求：
+
 碩士生畢業條件: 以第一作者身份發表至少2篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
 博士生畢業條件: 以第一作者身份發表至少5篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
 
 碩士生和博士生需接受暑假留校做科研。
+
+工作日（週一至週五）早上九點半到晚上九點應投入100%時間到科研上，不能利用這段時間做和科研無關的事，包括複習研究生課程，考試等。
 
 Master degree graduation requirements: Must publish at least 2 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
