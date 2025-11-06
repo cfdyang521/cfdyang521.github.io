@@ -78,6 +78,10 @@ Open positions / 招生信息
 
 工作日（週一至週五）早上九點半到晚上九點應投入100%時間到科研上，不能利用這段時間做和科研無關的事，包括複習研究生課程，考試等。
 
+學生以第一作者發表領域內頂級期刊，如JCP、CMAME、JSC、JFM、SIAM系列等，每篇獎勵澳門幣2萬元，以第一作者發表其他例如CNSNS、CPC、AMC、AMM、CICP、POF等JCR Q1 前10%的SCI期刊，每篇獎勵澳門幣1萬元。
+
+<br/><img src='/images/shangban.png' width='300px'>
+
 Master degree graduation requirements: Must publish at least 2 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
 
 Ph.D. degree graduation requirements: Must publish at least 5 SCI articles in the top 10% of JCR Q1 journals as the first author (publications in OA journals represented by MDPI are prohibited).
