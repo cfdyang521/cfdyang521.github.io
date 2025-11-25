@@ -15,6 +15,8 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 
 國家自然科學基金青年科學基金項目 (National Natural Science Foundation of China, PI, 2023-2025);
 
+澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2026-2028);
+
 澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2024-2026);
 
 澳門科技大學研究基金項目 (Macau University of Science and Technology Faculty Research Grant (FRG), PI, 2024-2025);
@@ -70,13 +72,15 @@ Open positions / 招生信息
 <br/><img src='/images/demoyang.png' width='200px'>
 組內畢業及科研要求：
 
-碩士生畢業條件: 以第一作者身份發表至少2篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
+原則上只招收有讀博計劃（外校讀博、本校讀博均可）的碩士研究生；
 
-博士生畢業條件: 以第一作者身份發表至少5篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)
+碩士生畢業條件: 以第一作者身份發表至少2篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)；
 
-碩士生和博士生需接受暑假留校做科研。
+博士生畢業條件: 以第一作者身份發表至少5篇JCR Q1 前10%等級的SCI文章 (禁止發以MDPI為代表的相關OA雜誌)；
 
-工作日（週一至週五）早上九點半到晚上九點應投入100%時間到科研上，不能利用這段時間做和科研無關的事，包括複習研究生課程，考試等。
+碩士生和博士生需接受暑假留校做科研；
+
+工作日（週一至週五）早上九點到晚上九點應投入100%時間到科研上，不能利用這段時間做和科研無關的事，包括複習研究生課程，考試等；
 
 學生以第一作者發表領域內頂級期刊，如JCP、CMAME、JSC、JFM、SIAM系列等，每篇獎勵澳門幣2萬元，以第一作者發表其他例如CNSNS、CPC、AMC、AMM、CICP、POF等JCR Q1 前10%的SCI期刊，每篇獎勵澳門幣1萬元。
 
