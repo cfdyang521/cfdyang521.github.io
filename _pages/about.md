@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/><img src='/images/jibobo.png' width='460px'>
 
-Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 85 SCI papers as first or corresponding author from 2018.  
+Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 85 SCI papers as first or corresponding author from 2018. In 2025, he was selected into the list of World's Top 2% Scientists (data from Elsevier and Standford University).
 
 已主持科研項目如下 (Research Grants)：
 
@@ -30,7 +30,7 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 
 Introduction of PF_CFD Team
 ======
-PF_CFD Team (相場_計算流體動力學 課題組) aims to develop high-performance mathematical models and computational algorithms in science and engineering. As a leader of my lab, I have published more than 90 SCI papers from 2018 and accumulated related experiences and skills in the fileds of phase-field method and incompressible fluid simulations. Moreover, I am also interested in immersed boundary method, level-set method, lattice Boltzmann method, image processing, 3D volume reconstruction, and digital twins. 
+PF_CFD Team (相場_計算流體動力學 課題組) aims to develop high-performance mathematical models and computational algorithms in science and engineering. As a leader of my lab, I have published more than 90 SCI papers from 2018 and accumulated related experiences and skills in the fileds of phase-field method and incompressible fluid simulations. Moreover, I am also interested in immersed boundary method, level-set method, lattice Boltzmann method, image processing, and 3D volume reconstruction. 
 
 In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). Some interesting simulation results are pasted in Portfolio. 
 
