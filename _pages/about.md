@@ -15,7 +15,7 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 
 國家自然科學基金青年科學基金項目 (National Natural Science Foundation of China, PI, 2023-2025);
 
-澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2026-2028);
+澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2025-2027);
 
 澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2024-2026);
 
