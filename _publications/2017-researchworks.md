@@ -35,7 +35,10 @@ curvature-dependent mobility, Journal of Computational Physics, Vol. 525, 11364,
 Communications in Nonlinear Science and Numerical Simulation, Vol. 152, 109427, 2026. JCR Q1 top 10%
 
 12. Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method for binary image segmentation, Mathematics and Computers in Simulation, Vol. 241, 452-472, 2026. JCR Q1 top 10%
+
+13. Renjun Gao, Xiangjie Kong, Dongting Cai, Boyi Fu, Junxiang Yang*, Three-dimensional narrow volume reconstruction method with unconditional stability based on a phase-field lagrange multiplier approach, Computers and Mathhematics with Applications, Vol. 202, 88-112, 2026. JCR Q1 top 15%
     
+
 
 
 
