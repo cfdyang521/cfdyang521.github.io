@@ -69,7 +69,6 @@ Present research topics (selected)
 Open positions / 招生信息
 ======
 
-<br/><img src='/images/demoyang.png' width='200px'>
 組內畢業及科研要求：
 
 原則上只招收有讀博計劃（外校讀博、本校讀博均可）的碩士研究生；
