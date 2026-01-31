@@ -36,3 +36,4 @@ Sheng Su, Junxiang Yang*, Semi-analytical penalized threshold dynamics method fo
 
 
 Renjun Gao, Xiangjie Kong, Dongting Cai, Boyi Fu, Junxiang Yang*, Three-dimensional narrow volume reconstruction method with unconditional stability based on a phase-field lagrange multiplier approach, Computers and Mathhematics with Applications, Vol. 202, 88-112, 2026. JCR Q1 top 15%
+
