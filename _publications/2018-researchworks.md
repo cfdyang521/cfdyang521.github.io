@@ -14,6 +14,8 @@ citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal
 
 2. Zhengfei Ren, Junxiang Yang*, Energy-stable decoupled numerical approximation with practical correction technique for the binary phase field Darcy fluid system, Computer Methods in Applied Mechanics and Engineering, Vol. 452 118791, 2026. JCR Q1 top 10%
 
-3. Junxiang Yang, Yibao Li, Junseok Kim*, Energy-Stable, L2-Stable, and weakly H1-Stable BDF2 Viscosity Splitting Method for the Penalized Incompressible Navier–Stokes Equations, Journal of Computational Physics, DOI: 10.1016/j.jcp.2026.114887, 2026. JCR Q1 top 10%
+3. Junxiang Yang, Yibao Li, Junseok Kim*, Energy-Stable, L2-Stable, and weakly H1-Stable BDF2 Viscosity Splitting Method for the Penalized Incompressible Navier–Stokes Equations, Journal of Computational Physics, Vol. 559, 114887, 2026. JCR Q1 top 10%
 
-4. Sheng Su, Junxiang Yang*, On quadratic and curvature-dependent variable mobilities for ternary phase-field fluid simulations with matching densities, Applied Mathematical Modelling, DOI: 10.1016/j.apm.2026.116937, 2026. JCR Q1 top 10%
+4. Sheng Su, Junxiang Yang*, On quadratic and curvature-dependent variable mobilities for ternary phase-field fluid simulations with matching densities, Applied Mathematical Modelling, Vol. 558, 116937, 2026. JCR Q1 top 10%
+
+5. Junxiang Yang, Seokjun Ham, Soobin Kwak, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim*, A time-fractional diffusion model with normalization and short memory effect, Communications in Computational Physics, in press, 2026. JCR Q1 top 10%
