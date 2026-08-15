@@ -18,4 +18,8 @@ citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal
 
 4. Sheng Su, Junxiang Yang*, On quadratic and curvature-dependent variable mobilities for ternary phase-field fluid simulations with matching densities, Applied Mathematical Modelling, Vol. 558, 116937, 2026. JCR Q1 top 10%
 
-5. Junxiang Yang, Seokjun Ham, Soobin Kwak, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim*, A time-fractional diffusion model with normalization and short memory effect, Communications in Computational Physics, in press, 2026. JCR Q1 top 10%
+5. Junxiang Yang, Seokjun Ham, Soobin Kwak, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim*, A time-fractional diffusion model with normalization and short memory effect, Communications in Computational Physics, (https://doi.org/10.4208/cicp.OA-2025-0253), 2026. JCR Q1 top 10%
+
+6. Junxiang Yang, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Juho Ma, Junseok Kim*, A multigrid solver for the Allen–Cahn equation on a virtual cubic surface, Applied Numerical Mathematics, Vol. 228, 71-96, 2026. JCR Q1 top 15%
+
+7. Zecheng Qiu, Yutong Wu, Junxiang Yang*, Phase-field modeling and simulation of two- and three-dimensional curvature-dependent tissue growth on surfaces, Physica D: Nonlinear Phemonena, Vol. 497, 135345, 2026. JCR Q1 top 10%
