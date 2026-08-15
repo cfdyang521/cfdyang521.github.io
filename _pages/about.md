@@ -19,6 +19,8 @@ Dr. Yang is an Assistant Professor in School of Computer Science and Technology 
 
 澳門特別行政區科學技術發展基金 (Macau Science and Technology Development Fund (FDCT), PI, 2024-2026);
 
+廣東省基礎和應用基礎研究面上項目 (Guangdong Basic and Applied Basic Research Foundation, General Program (No. 2026A1515012029), PI, 2026-2029);
+
 澳門科技大學研究基金項目 (Macau University of Science and Technology Faculty Research Grant (FRG), PI, 2024-2025);
 
 博士後科學基金面上項目 (China Postdoctoral Science Foundation, PI, 2022-2023)。
